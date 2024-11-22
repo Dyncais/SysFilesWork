@@ -1,0 +1,6 @@
+[submodule "libzippp"]
+	path = libzippp
+	url = https://github.com/ctabin/libzippp
+[submodule "vendor/libzippp"]
+	path = vendor/libzippp
+	url = https://github.com/ctabin/libzippp
